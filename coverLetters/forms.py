@@ -11,7 +11,6 @@ class CoverLetterForm(ModelForm):
         labels = {'position_title': 'Position title'}
         widgets = {
             'template_choices': forms.Select(), 
-            # 'template_choices': forms.RadioSelect(), 
         }
 
 
