@@ -9,7 +9,7 @@
 </br>
 **Feedback -->** If you have any feedback please feel free to reach out to me by email Jsavett@gmail.com
 
-# **Make Sure All Commands For Below Are Done At The Root Level.**
+# **Make Sure All Commands Below Are Done At The Root Level.**
 
 ## **Techonolgies needed:**
 * `Python`: 
